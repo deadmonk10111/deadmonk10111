@@ -1,11 +1,11 @@
-## ideas and work
+## ideas and works in progress
 ### k.walker
 
 -software development  
--security   
+-infosec     
 -web3  
 -graphic design  
--blog/connect
+-music
 
 <!--
 **deadmonk10111/deadmonk10111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
